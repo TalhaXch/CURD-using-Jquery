@@ -17,8 +17,6 @@ $(document).ready(function() {
         }
     });
 });
-
-
 //Create Data
 $(document).ready(function() {
     
